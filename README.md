@@ -1,2 +1,2 @@
 # Tugas_1_machineLearning
-tugas 1 matkul ML
+tugas minggu 1 matkul ML
