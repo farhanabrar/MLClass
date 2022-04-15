@@ -1,2 +1,2 @@
 # Tugas_machineLearning
-tugas matkul ML
+tugas, UTS dan UAS matkul ML
